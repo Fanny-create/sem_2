@@ -1,0 +1,27 @@
+h1{
+    color:blue
+    font-size: 50px
+}
+ol{
+    color: red;
+    font-weight: bold 
+}
+
+.maclasse{
+    border: solid 4px;
+    border-style: dotted;
+    border-color: rgb(0, 217, 255);
+    opacity: 0.5;
+}
+
+.fanny{
+    border: solid 4px;
+    border-style: dotted;
+    border-color: rgb(0, 217, 255);
+    opacity: 0.5;
+    text-align: center;
+}
+
+.image1{
+    width: 100px;
+}
